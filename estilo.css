@@ -1,0 +1,47 @@
+.imagem-redonda{
+    border: 6px solid #7e5a63;
+    border-radius:50%;
+  }
+  
+  
+  #cabecalho{
+    background-image: url("https://uploads.spiritfanfiction.com/fanfics/capitulos/202009/naruto-uma-nova-historia-20375891-010920202221.jpg") ;
+    background-size:cover;
+  }
+  #cabecalho img{
+    width: 80px;
+    height: 80px;
+    display: block;
+  margin: auto;  
+  }
+  .secao{
+    border-radius: 10%;
+    padding: 15px;  
+  margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:#FFFFFF ;
+  }
+  
+  #cabecalho p{
+    
+    color:#7f1a64 ;
+    font-weight: bold;
+    text-align: center;
+    font-size: 45pt;
+  }
+  
+  h1{
+    font-size:15pt;
+    color: #ADFF2F;
+  text-align:center;
+      padding: 18px 0 18px 0;
+  margin:0 0 10px ;
+   
+  }
+  
+  h1 span{ 
+  border: 4px groove   ; 
+  }
+  
+  
+  
